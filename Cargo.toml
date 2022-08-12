@@ -1,0 +1,9 @@
+[package]
+name = "tatatakky-pktest-sample"
+version = "0.1.0"
+edition = "2021"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+tatatakky-pktest = "0.1.0"
